@@ -59,13 +59,10 @@ public class HelloServlet extends HttpServlet {
                     "Die einsame, die letzte Stunde<br/>" +
                     "Das ganze liebe Antlitz dann in Nacht." );
         } else {
-            out.println("<h2>Schmarrn</h2>");
+            out.println("<h2>So a Riesenschmarrn</h2>");
         }
 
-
         // Set response content type
-
-
 
     }
 
